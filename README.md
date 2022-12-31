@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/tanisha-salvi)
+[<p align="center"><img src = "https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb"></p>](https://github.com/tanisha-salvi)
 
 <h1 align="center">Hi 👋, I'm Tanisha Salvi</h1>
 <h3 align="center">A passionate android developer from India</h3>
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanisha-salvi" alt="tanisha-salvi" /></a> </p>
 
-- 🔭 I’m currently working on [AsterHF](https://github.com/Coding-Club-IITG/AsterHF)
+- 🔭 I’m currently working on [GC Scoreboard](https://github.com/swciitg/gc_scoreboard) and [AsterHF](https://github.com/Coding-Club-IITG/AsterHF)
 
 - 🌱 I’m currently learning **Firebase, Kotlin**
 
 - 📫 How to reach me **tanishasalvi12@gmail.com**
 
-- ⚡ Fun fact **I drink lots of coffee.**
+- ⚡ Fun fact **: i drink lots of coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
